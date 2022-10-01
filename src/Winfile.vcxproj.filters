@@ -121,6 +121,9 @@
     <None Include="lang\winfile_de-DE.dlg">
       <Filter>lang</Filter>
     </None>
+    <None Include="lang\res_tr-TR.rc" />
+    <None Include="lang\suggest_tr-TR.db" />
+    <None Include="lang\winfile_tr-TR.dlg" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="lang">
